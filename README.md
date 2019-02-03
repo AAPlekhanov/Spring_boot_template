@@ -1,3 +1,3 @@
 # Spring_boot_template
 
-Пример использование и конфигурации Spring Boot 
+Пример использования и конфигурации Spring Boot 
